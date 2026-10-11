@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔵 NewsMelt - Advanced News Analysis & Data Visualization Platform
 
 ![NewsMelt Landing](landing.png)
@@ -287,3 +288,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by Tuhin-SnapD**
 
 *Transform your news consumption with AI-powered insights and beautiful visualizations.*
+=======
+# NLP-Miniproject-Newsmelt
+>>>>>>> 160cbc04a869e99171a31f6d9def1392735efe89
